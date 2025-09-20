@@ -37,4 +37,4 @@ I want to keep learning semantic HTML, Grid, BEM, box model and desktop/mobile r
 
 ## Author
 
-- Frontend Mentor - [@yDmitry-Fayonov](https://www.frontendmentor.io/profile/Dmitry-Fayonov)
+- Frontend Mentor - [@Dmitry-Fayonov](https://www.frontendmentor.io/profile/Dmitry-Fayonov)
